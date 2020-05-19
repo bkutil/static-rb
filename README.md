@@ -8,6 +8,7 @@ static.rb uses [musl](https://musl.libc.org/) libc. The binary is further
 
 ## Requirements
 
+- GNU make
 - Ubuntu based build system. Tested on Ubuntu 18.04.4 (bionic).
 
 ## Usage
